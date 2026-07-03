@@ -1,0 +1,2 @@
+total_matches,total_seasons,total_teams,active_teams,overall_toss_advantage,field_first_advantage,bat_first_advantage,top2_conversion,bottom2_conversion,highest_home_advantage,highest_home_advantage_pct,most_successful_team,most_trophies,predictor_accuracy,predictor_top_feature,predictor_top_feature_importance
+1254,19,15,10,46.33,45.81,46.51,47.37,47.37,GT,31.52,CSK,5,0.9641,season,0.3505
